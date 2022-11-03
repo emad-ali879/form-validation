@@ -1,9 +1,4 @@
 <?php
-// Do some complex form validation
-// https://www.w3schools.com/php/php_form_validation.asp
-
-// Using filters
-// https://www.w3schools.com/php/php_filter.asp
 
 define('REQUIRED_FIELD_ERROR', 'This field is required');
 
